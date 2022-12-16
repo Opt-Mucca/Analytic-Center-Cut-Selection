@@ -2,7 +2,9 @@
 
 If this software was used for academic purposes, please cite our paper with the below information:
 
-TODO: Put the bibtex entry here
+`@misc{turner2022cutting, title={Cutting Plane Selection with Analytic Centers and Multiregression}, 
+author={Turner, Mark and Berthold, Timo and Besançon, Mathieu and Koch, Thorsten}, year={2022}, 
+eprint={2212.07231}, archivePrefix={arXiv}, primaryClass={math.OC}}`
 
 
 ## Install Guide
