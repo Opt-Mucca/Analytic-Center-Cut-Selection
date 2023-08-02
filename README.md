@@ -4,7 +4,7 @@ If this software was used for academic purposes, please cite our paper with the 
 
 `
 @inproceedings{turner2023cutting,
-  title={Cutting {Plane} {Selection} with {Analytic} {Centers} and {Multiregression},
+  title={Cutting {Plane} {Selection} with {Analytic} {Centers} and {Multiregression}},
   author={Turner, Mark and Berthold, Timo and Besan{\c{c}}on, Mathieu and Koch, Thorsten},
   booktitle={International Conference on Integration of Constraint Programming, Artificial Intelligence, and Operations Research},
   pages={52--68},
