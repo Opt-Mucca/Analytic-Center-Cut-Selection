@@ -2,9 +2,16 @@
 
 If this software was used for academic purposes, please cite our paper with the below information:
 
-`@misc{turner2022cutting, title={Cutting Plane Selection with Analytic Centers and Multiregression}, 
-author={Turner, Mark and Berthold, Timo and Besançon, Mathieu and Koch, Thorsten}, year={2022}, 
-eprint={2212.07231}, archivePrefix={arXiv}, primaryClass={math.OC}}`
+`
+@inproceedings{turner2023cutting,
+  title={Cutting {Plane} {Selection} with {Analytic} {Centers} and {Multiregression},
+  author={Turner, Mark and Berthold, Timo and Besan{\c{c}}on, Mathieu and Koch, Thorsten},
+  booktitle={International Conference on Integration of Constraint Programming, Artificial Intelligence, and Operations Research},
+  pages={52--68},
+  year={2023},
+  organization={Springer},
+  doi={10.1007/978-3-031-33271-5_4}
+}`
 
 
 ## Install Guide
